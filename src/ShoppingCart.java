@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class ShoppingCart {
     public  static  void main(String [] args) {
         // Creating A Shopping Cart
+        System.out.println("Welcome To My Store");
         Scanner ShoppingCart = new Scanner(System.in);
         String ItemName;
         double Price;
